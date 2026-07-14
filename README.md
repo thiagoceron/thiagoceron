@@ -67,5 +67,4 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thiagoceron&layout=compact&hide_border=true" height="165"/>
 </p>
 
-<p align="center"><i>Aberto a oportunidades de estágio em desenvolvimento de software 🚀</i></p>
 ---
