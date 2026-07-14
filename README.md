@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Thiago Ceron 👋</h1>
+<h1 align="center">Olá, eu sou o Thiago Ceron👋</h1>
 <h3 align="center">Desenvolvedor Full-Stack | Estudante de Ciência da Computação na UNICENTRO</h3>
 
 <p align="center">
@@ -54,13 +54,13 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **[Ecenut](https://github.com/thiagoceron/ecenut)** | Plataforma de gestão de prontuários e planos alimentares para a Clínica Escola de Nutrição da UNICENTRO | Vue.js · Laravel |
+| **[Ecenut](https://ecenut.fabsoft.unicentro.br/)** | Plataforma de gestão de prontuários e planos alimentares para a Clínica Escola de Nutrição da UNICENTRO *(repositório privado — colaborador)* | Vue.js · Laravel |
 | **[PET Conecta-SUS](https://github.com/thiagoceron/PET)** | Sistema de prontuário eletrônico para o curso de Fisioterapia, vinculado ao SUS | Angular · Firebase |
 | **[KickStream](https://github.com/thiagoceron/kickstream)** | Infraestrutura cloud simulando uma plataforma de streaming esportivo na AWS | AWS · EC2 · DynamoDB |
 
 ---
 
-📊 Estatísticas
+### 📊 Estatísticas
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=thiagoceron&show_icons=true&theme=default&hide_border=true" height="165"/>
