@@ -60,11 +60,12 @@
 
 ---
 
-### 📊 Estatísticas
+📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagoceron&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoceron&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=thiagoceron&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thiagoceron&layout=compact&hide_border=true" height="165"/>
 </p>
 
+<p align="center"><i>Aberto a oportunidades de estágio em desenvolvimento de software 🚀</i></p>
 ---
